@@ -29,3 +29,29 @@ Deep Learning Framework: PyTorch
 Pre-Trained Model: NAFNet for image restoration tasks
 
 Image Processing: OpenCV or PIL for handling input and output images
+
+Applications:
+
+Photography: Enhance hazy photos for better visual appeal.
+
+Surveillance: Improve the visibility of surveillance footage in foggy conditions.
+
+Autonomous Vehicles: Enhance camera feeds for improved navigation in hazy environments.
+
+Aerial Imaging: Clear up images taken from drones or planes in misty conditions.
+
+Future Enhancements:
+
+1-Integration of a user interface for easy drag-and-drop dehazing.
+
+2-Support for real-time dehazing of video feeds.
+
+3-Training on custom datasets for domain-specific dehazing.
+
+Contributing:
+
+Contributions are welcome! Please fork the repository and submit a pull request with detailed information about your changes.
+
+License:
+
+This project is licensed under the MIT License - see the LICENSE file for details.
